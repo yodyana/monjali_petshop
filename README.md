@@ -1,0 +1,3 @@
+# monjali_petshop
+
+Stages of research on the system using the waterfall method. The purpose of this study is to produce a web-based system for the service ordering process using the Time Slots Booking feature and online payment methods using a payment gateway. The result of this research is that the system can make the process of ordering vaccines and grooming services through a website that has been built. Order services based on available slots and then pay using a simulation payment gateway. The system can generate order reports in the form of reports to make it easier to search data through available reports.
